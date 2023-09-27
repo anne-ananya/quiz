@@ -16,3 +16,10 @@ A simple quiz app built using asynchronous javascript (AJAX).
   - After the quiz ends, a report page would be displayed showing a number of questions answered correctly and vice versa.
 - **Different Levels of Quiz**
   - The user would be availed with levels of the quiz. It should start with easy, medium & hard. You can also keep stages for quiz increasing the difficulty level.
+**API Used**
+-https://opentdb.com/api.php?
+**Watch live**
+-https://quizzy-b18b.onrender.com/
+**Made by Ananya**
+
+Challenges faced- To make the website responsive.
